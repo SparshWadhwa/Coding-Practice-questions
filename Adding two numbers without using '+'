@@ -1,0 +1,6 @@
+public static int add(int a, int b) {
+2 if (b == 0) return a;
+3 intsum=aA b;//addwithoutcarrying
+4 intcarry=(a&b)« 1;//carry,butdon'tadd
+5 return add(sum., carry); // recurse
+6}
