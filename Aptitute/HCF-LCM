@@ -1,0 +1,15 @@
+##Sum of two numbers is given and LCM and HCF is given. Find sum of reciprocals
+
+Way to solve Type 1 Questions
+
+Let numbers be a and b. So a + b is given. 
+
+You know LCM x HCF = product of two numbers i.e. a x b is also given
+
+So 1/a + 1/b = (a + b)/(a x b)
+
+Example. If the sum of two numbers is 55 and the H.C.F. and L.C.M of these numbers are 5 and 120 respectively, then the sum of the reciprocals of the numbers is equal to
+
+with this direct formula answer is 55/(5×120) = 11/120
+
+Now this question can be iterated. Where some times LCM, product and sum is given but not HCF or other permutations of the same.
