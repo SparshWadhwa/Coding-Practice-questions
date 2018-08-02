@@ -34,3 +34,19 @@ Remember this rule of thumb then –
 
 If outcome value is smaller than the inputs then HCF is to be found out e.g. in this question
 If outcome value is larger than the inputs then LCM. e.g Type 3 problems
+
+###Bell Question – When will all clock Bell ring together
+
+Way to solve Type 3 Question
+
+Change bell timing into minutes or seconds and find the LCM of all of them
+
+Example. Four different electronic devices make a beep after every 30 minutes, 1 hour, 3/2 hour and 1 hour 45 minutes respectively. All the devices beeped together at 12 noon. They will again beep together at:
+
+Device A: 30 mins
+Device B: 60 mins
+Device C: 90 mins
+Device D: 105 mins
+So L.C.M of above devices is 1260 mins = 21 hrs.
+
+That means they will make a beep together again after 21 hrs to 12 Noon, that is 9:00 am (12 noon + (12 + 9) = 9 am ) of next day…
