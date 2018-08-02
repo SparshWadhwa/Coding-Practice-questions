@@ -1,3 +1,37 @@
+# LCM and HCF Formula, Tricks and Tips
+## Property 1 – LCM x HCF = Product of two numbers
+
+H.C.F. and L.C.M. of Fractions:
+
+    1. H.C.F. =	H.C.F. of Numerators
+L.C.M. of Denominators
+    2. L.C.M. =	L.C.M. of Numerators
+H.C.F. of Denominators
+
+## FINDING LCM OF TWO NUMBERS –
+Let us take an example HCF of 15 and 20, first we list out all the prime factors of each
+
+15 = 3 x 5
+
+20 = 2 x 2 x 5 = 22 × 5
+
+### Then multiply each factor by the greatest number of times it occurs in either number.
+
+2 – Occurs 2 times
+3 – Occurs 1 time
+5 – Occurs 1 time
+So LCM is (2×2)x(3×1)x(5×1) = 60
+
+## FINDING HCF OF TWO NUMBERS
+Let us take an example HCF of 18 and 24, we already have listed out all the prime factors of each number
+
+18 = 2 x 3 x 3
+
+24 = 2 x 2 x 2 x 3 = 23 × 3
+
+### Now we find the factor that exists at least once in both of them.
+
+
 # Sum of two numbers is given and LCM and HCF is given. Find sum of reciprocals
 
 Way to solve Type 1 Questions
