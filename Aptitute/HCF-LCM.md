@@ -50,3 +50,25 @@ Device D: 105 mins
 So L.C.M of above devices is 1260 mins = 21 hrs.
 
 That means they will make a beep together again after 21 hrs to 12 Noon, that is 9:00 am (12 noon + (12 + 9) = 9 am ) of next day…
+
+
+# Circle based Runner Problem
+
+Way to Solve Type 4 Questions
+
+Find LCM of all three times
+
+Example. A, B and C start at the same time in the same direction to run around a circular stadium. A completes a round in 252 seconds, B in 308 seconds and c in 198 seconds, all starting at the same point. After what time will they again at the starting point
+
+L.C.M. of 252, 308 and 198 = 2772.
+
+So, A, B and C will again meet at the starting point in 2772 sec. i.e., 46 min. 12 sec.
+
+Some people in the comments have mentioned confusion about converting 2772 into mins.
+
+2772/60 = 46.2 now .2 in seconds will be .2×60 = 12 seconds so 46 mins and 12 seconds.
+46 mins 20 seconds is wrong as 46×60 = 2760! Now you say it’s 20 right, 2760+20=2780 ! Where 2760+12 = 2772 which is the answer
+Basic approach to solve this should be
+
+Divide Total number of seconds by 60, that is the minute part
+Multiply the decimal part with 60 to get seconds as we have done in above example.
