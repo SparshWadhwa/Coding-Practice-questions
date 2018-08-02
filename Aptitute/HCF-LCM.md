@@ -1,4 +1,4 @@
-#Sum of two numbers is given and LCM and HCF is given. Find sum of reciprocals
+###Sum of two numbers is given and LCM and HCF is given. Find sum of reciprocals
 
 Way to solve Type 1 Questions
 
@@ -14,7 +14,7 @@ with this direct formula answer is 55/(5×120) = 11/120
 
 Now this question can be iterated. Where some times LCM, product and sum is given but not HCF or other permutations of the same.
 
-#Biggest container to measure quantities
+###Biggest container to measure quantities
 
 In this problem 3 quantities(containers) will be given you have to find a smaller quantity(container) that can measure those three quantities exactly
 
