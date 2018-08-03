@@ -1,4 +1,5 @@
 // Java program for implementation of Insertion Sort
+
 class InsertionSort
 {
     /*Function to sort array using insertion sort*/
@@ -42,7 +43,7 @@ class InsertionSort
          
         printArray(arr);
     }
-} /* This code is contributed by Rajat Mishra. */
+} 
 
 ## Time Complexity: O(n*n)
 
