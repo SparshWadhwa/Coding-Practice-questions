@@ -83,3 +83,28 @@ A number is divisible by 11, if the difference of the sum of its digits at odd p
 Example:
 The number 4832718 is divisible by 11, since :(sum of digits at odd places) - (sum of digits at even places) = 
 =(8+7+3+4)−(1+2+8)=11, which is divisible by 11.
+
+### 5.10. Divisibility By 12
+A number is divisible by 12 if it is divisible by both 4 and3.
+
+Example:
+Consider the number 34632.
+
+(i) The number formed by last two digits is 32, which is divisible by 4,
+
+(ii) Sum of digits =(3+4+6+3+2)=18, which is divisible by 3. Thus, 34632 is divisible by 4 as well as 3. Hence, 34632 is divisible by 12.
+
+
+### 5.11. Divisibility By 14
+A number is divisible by 14 if it is divisible by 2 as well as 7.
+
+
+### 5.12. Divisibility By 15
+A number is divisible by 15 if it is divisible by both 3 and 5.
+
+
+### 5.13. Divisibility By 16
+A number is divisible by 16 if the number formed by the last4 digits is divisible by 16.
+
+Example:
+7957536 is divisible by 16 since the number formed by the last four digits is 7536, which is divisible by 16.
