@@ -123,3 +123,8 @@ The nth term of this A.P. is given by Tn=a+(n−1)d.
 
 ### The sum of n terms of this A.P.
 Sn=(n2)[2a+(n−1)d]=(n2)∗(first term + last term).
+
+## Some Important Results:
+(i) (1+2+3+....+n)=n(n+1)2
+(ii) (l2+22+32+...+n2)=n(n+1)(2n+1)6
+(iii) (13+23+33+...+n3)=n2(n+1)24
