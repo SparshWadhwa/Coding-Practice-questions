@@ -108,3 +108,18 @@ A number is divisible by 16 if the number formed by the last4 digits is divisibl
 
 Example:
 7957536 is divisible by 16 since the number formed by the last four digits is 7536, which is divisible by 16.
+
+36 is divisible by both 4 and 6, but it is not divisible by (4∗6)=24 since 4 and 6 are not co - primes.
+
+
+# 6. Progression
+A succession of numbers formed and arranged in a definite order according to a certain definite rule is called a progression.
+
+## 6.1. Arithmetic Progression (A.P.)
+If each term of a progression differs from its preceding term by a constant, then such a progression is called an arithmetical progression. This constant difference is called the common difference of the A.P.
+
+An A.P. with first term a and common difference d is given by a,(a+d),(a+2d),(a+3d),.....
+The nth term of this A.P. is given by Tn=a+(n−1)d.
+
+### The sum of n terms of this A.P.
+Sn=(n2)[2a+(n−1)d]=(n2)∗(first term + last term).
