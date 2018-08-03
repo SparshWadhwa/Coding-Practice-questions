@@ -1,8 +1,8 @@
-// Java program for implementation of Insertion Sort
+## Java program for implementation of Insertion Sort
 
 class InsertionSort
 {
-    /*Function to sort array using insertion sort*/
+   
     void sort(int arr[])
     {
         int n = arr.length;
