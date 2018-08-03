@@ -18,3 +18,68 @@
 8. (a3−b3)=(a−b)(a2+ab+b2)
 9. (a3+b3+c3−3abc)=(a+b+c)(a2+b2+c2−ab−bc−ca)
 10. If a+b+c=0, then a3+b3+c3=3abc.
+
+# Tests of Divisibility
+### 5.1. Divisibility By 2
+A number is divisible by 2 if its unit's digit is any of 0,2,4,6,8.
+
+Example:
+84932 is divisible by 2, while 65935 is not.
+
+
+### 5.2. Divisibility By 3
+A number is divisible by 3 if the sum of its digits is divisible by 3.
+
+Example:
+592482 is divisible by 3, since sum of its digits =(5+9+2+4+8+2)=30, which is divisible by 3.
+
+But, 864329 is not divisible by 3, since sum of its digits =(8+6+4+3+2+9)=32, which is not divisible by 3.
+
+
+### 5.3. Divisibility By 4
+A number is divisible by 4 if the number formed by the last two digits is divisible by 4.
+
+Example:
+892648 is divisible by 4 since the number formed by the last two digits is 48, which is divisible by 4. But, 749282 is not divisible by 4, since the number formed by the last two digits is 82, which is not divisible by 4.
+
+
+### 5.4. Divisibility By 5
+A number is divisible by 5 if its unit's digit is either 0 or 5. Thus, 20820 and 50345 are divisible by 5, while 30934 and 40946 are not.
+
+
+### 5.5. Divisibility By 6
+A number is divisible by 6 if it is divisible by both 2 and 3.
+
+Example:
+The number 35256 is clearly divisible by 2.Sum of its digits =(3+5+2+5+6)=21, which is divisible by 3. Thus, 35256 is divisible by 2 as well as 3. Hence, 35256 is divisible by 6.
+
+
+### 5.6. Divisibility By 8
+A number is divisible by 8 if the number formed by the last Three digits of the given number is divisible by 8.
+
+Example:
+953360 is divisible by 8 since the number formed by last three digits is 360, which is divisible by 8. But, 529418 is not divisible by 8, since the number formed by last three digits is 418, which is not divisible by 8.
+
+
+### 5.7. Divisibility By 9
+A number is divisible by 9 if the sum of its digits is divisible by 9.
+
+Example:
+60732 is divisible by 9, since sum of digits =(6+0+7+3+2)=18, which is divisible by 9.
+
+But, 68956 is not divisible by 9, since sum of digits =(6+8+9+5+6)=34, which is not divisible by 9.
+
+
+### 5.8. Divisibility By 10
+A number is divisible by 10 if it ends with 0.
+
+Example:
+96410, 10480 are divisible by 10, while 96375 is not.
+
+
+### 5.9. Divisibility By 11
+A number is divisible by 11, if the difference of the sum of its digits at odd places and the sum of its digits at even places, is either 0 or a number divisible by 11.
+
+Example:
+The number 4832718 is divisible by 11, since :(sum of digits at odd places) - (sum of digits at even places) = 
+=(8+7+3+4)−(1+2+8)=11, which is divisible by 11.
