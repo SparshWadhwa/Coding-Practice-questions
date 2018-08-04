@@ -134,7 +134,7 @@ Sn=(n2)[2a+(n−1)d]=(n2)∗(first term + last term).
 ## 6.2. Geometrical Progression (G.P.)
 A progression of numbers in which every term bears a constant ratio with its preceding term, is called a geometrical progression. The constant ratio is called the common ratio of the G.P.
 
-###A G.P. with first term a and common ratio r is :a,ar,ar2,...cont
+### A G.P. with first term a and common ratio r is :a,ar,ar2,...cont
 
 In this G.P.nth term, Tn=arn−1
 
