@@ -45,3 +45,11 @@ Triplicate ratio of (a:b) is (a3:b3)
 Sub-triplicate Ratio:
 Sub-triplicate ratio of (a:b) is (a1/3:b1/3)
 If ab=cd then, a+ba−b=c+dc−d [Componendo and Dividendo]
+
+### 3. Variations
+We say that x is directly proportional to y,
+
+if x=ky for some constant k and we write, x∝y
+We say that x is inversely proportional to y,
+
+if xy=k for some constant k and we write, x∝1y
