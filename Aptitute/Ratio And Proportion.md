@@ -35,3 +35,13 @@ We say that (a:b)>(c:d)\Longleftrightarrowab>cd
 
 ## 2.5 Compounded Ratio
 The compounded ratio of the ratios: (a:b),(c:d),(e:f) is (ace:bdf)
+
+## 2.6 Duplicate Ratios
+Duplicate ratio of (a:b) is (a2:b2)
+Sub-duplicate:
+Sub-duplicate ratio of (a:b) is (a1/2:b1/2)
+Triplicate Ratio:
+Triplicate ratio of (a:b) is (a3:b3)
+Sub-triplicate Ratio:
+Sub-triplicate ratio of (a:b) is (a1/3:b1/3)
+If ab=cd then, a+ba−b=c+dc−d [Componendo and Dividendo]
