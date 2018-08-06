@@ -10,3 +10,23 @@ Writing two numbers as a ratio provides a convenient way to compare their sizes.
 A ratio compares two numbers. Just as you cannot compare apples and oranges, so the numbers you are comparing must have the same units.
 
 For example, you cannot form the ratio of 2 feet to 4 meters because the two numbers are expressed in different units - feet vs. meters.
+
+### 2. Proportion
+The equality of two ratios (fractions) is called proportion. If a : b = c : d, we write a : b :: c : d and we say that a, b, c, d are in proportion.
+
+Here a and d are called extremes, while b and c are called mean terms.
+
+Product of means=Product of extremes
+Thus,
+a:b::c:d⟺(b∗c)=(a∗d)
+
+2.1 Fourth Proportional
+If a:b=c:d, then d is called the fourth proportional to a,b,c.
+
+
+2.2 Third Proportional
+a:b=c:d, then c is called the third proportional to a and b.
+
+
+2.3 Mean Proportional
+Mean proportional between a and b is ab.
