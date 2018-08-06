@@ -33,5 +33,5 @@ Mean proportional between a and b is ab.
 ## 2.4 Comparison of Ratios
 We say that (a:b)>(c:d)\Longleftrightarrowab>cd
 
-2.5 Compounded Ratio
+## 2.5 Compounded Ratio
 The compounded ratio of the ratios: (a:b),(c:d),(e:f) is (ace:bdf)
