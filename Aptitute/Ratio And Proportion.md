@@ -20,13 +20,13 @@ Product of means=Product of extremes
 Thus,
 a:b::c:d⟺(b∗c)=(a∗d)
 
-2.1 Fourth Proportional
+## 2.1 Fourth Proportional
 If a:b=c:d, then d is called the fourth proportional to a,b,c.
 
 
-2.2 Third Proportional
+## 2.2 Third Proportional
 a:b=c:d, then c is called the third proportional to a and b.
 
 
-2.3 Mean Proportional
+## 2.3 Mean Proportional
 Mean proportional between a and b is ab.
