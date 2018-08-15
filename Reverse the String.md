@@ -1,4 +1,3 @@
-/**
 Given an input string, reverse the string word by word.
 
 Example:
@@ -7,7 +6,7 @@ Given s = "the sky is blue",
 
 return "blue is sky the".
 Code:
-*/
+
 public class Solution {
     public String reverseWords(String a) {
         String[] s = a.split(" ");
