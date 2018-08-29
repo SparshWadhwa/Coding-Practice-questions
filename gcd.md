@@ -1,7 +1,9 @@
 
 ## Java program to find GCD of two or more numbers
- 
-  public class GCD {
+
+
+
+      public class GCD {
       // Function to return gcd of a and b
       static int gcd(int a, int b)
       {
