@@ -136,6 +136,6 @@ A progression of numbers in which every term bears a constant ratio with its pre
 
 ### A G.P. with first term a and common ratio r is :a,ar,ar2,...cont
 
-In this G.P.nth term, Tn=arn−1
+In this G.P.nth term, Tn=a*r^(n−1)
 
-sum of n terms, Sn=a(1−rn)(1−r) when r>1
+sum of n terms, Sn=a(1−r^n)/(1−r) when r>1
