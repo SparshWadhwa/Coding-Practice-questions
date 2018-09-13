@@ -139,3 +139,4 @@ A progression of numbers in which every term bears a constant ratio with its pre
 In this G.P.nth term, Tn=a*r^(n−1)
 
 sum of n terms, Sn=a(1−r^n)/(1−r) when r>1
+when n --> infinity Sn = a/(1-r)
