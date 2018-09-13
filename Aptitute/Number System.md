@@ -125,11 +125,11 @@ The nth term of this A.P. is given by Tn=a+(n−1)d.
 Sn=(n2)[2a+(n−1)d]=(n2)∗(first term + last term).
 
 ## Some Important Results:
-(i) (1+2+3+....+n)=n(n+1)2
+(i) (1+2+3+....+n)=n(n+1)/2
 
-(ii) (l^2+2^2+3^2+...+n^2)=n(n+1)(2n+1)6
+(ii) (l^2+2^2+3^2+...+n^2)=n(n+1)(2n+1)/6
 
-(iii) (1^3+2^3+3^3+...+n^3)=n2(n+1)24
+(iii) (1^3+2^3+3^3+...+n^3)=(n^2 * (n+1)^2) /4
 
 ## 6.2. Geometrical Progression (G.P.)
 A progression of numbers in which every term bears a constant ratio with its preceding term, is called a geometrical progression. The constant ratio is called the common ratio of the G.P.
